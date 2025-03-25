@@ -4,7 +4,7 @@ I'm a cybersecurity professional honing my skills and expanding my horizons.
 
 ## Cybersecurity Projects:
 
-- [Running Splunk in a Docker Container](https://github.com/logandehning/Docker-Splunk)
+- [Running Splunk in a Docker Container](https://github.com/logandehning/Docker-Splunk_ep_1)
 
 ## Certifications
 <div>
