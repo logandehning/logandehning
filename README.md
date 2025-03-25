@@ -1,5 +1,7 @@
 # Hi, I'm Logan
 
+I'm a cybersecurity professional honing my skills and expanding my horizons.
+
 ## Cybersecurity Projects:
 
 - [Running Splunk in a Docker Container]()
