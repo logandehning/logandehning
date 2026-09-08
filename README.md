@@ -2,9 +2,10 @@
 
 I'm a cybersecurity professional honing my skills and expanding my horizons.
 
-## Cybersecurity Projects:
+## Projects:
 
 - [Running Splunk in a Docker Container](https://github.com/logandehning/Docker-Splunk)
+- [DiskSpade: Python-based file carving tool](https://github.com/logandehning/DiskSpade)
 
 ## Certifications
 <p align="left">
